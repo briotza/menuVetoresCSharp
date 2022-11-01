@@ -1,0 +1,15 @@
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\bin\Debug\net6.0\MenuVetores_Ciano.exe
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\bin\Debug\net6.0\MenuVetores_Ciano.deps.json
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\bin\Debug\net6.0\MenuVetores_Ciano.runtimeconfig.json
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\bin\Debug\net6.0\MenuVetores_Ciano.dll
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\bin\Debug\net6.0\MenuVetores_Ciano.pdb
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.csproj.AssemblyReference.cache
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.AssemblyInfoInputs.cache
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.AssemblyInfo.cs
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.csproj.CoreCompileInputs.cache
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.dll
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\refint\MenuVetores_Ciano.dll
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.pdb
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\MenuVetores_Ciano.genruntimeconfig.cache
+C:\Users\bya_m\source\repos\SolMenuVetores_Ciano\MenuVetores_Ciano\obj\Debug\net6.0\ref\MenuVetores_Ciano.dll
